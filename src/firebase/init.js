@@ -2,7 +2,7 @@ import firebase from 'firebase'
 import firestore from 'firebase/firestore'
 // Initialize Firebase
 var config = {
-  apiKey: "AIzaSyCKMXAETske38J0b2DbzY9ffzDCkLvR1MY",
+  apiKey: "",
   authDomain: "chatapp-5c52d.firebaseapp.com",
   databaseURL: "https://chatapp-5c52d.firebaseio.com",
   projectId: "chatapp-5c52d",
