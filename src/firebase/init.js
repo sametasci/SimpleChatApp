@@ -5,7 +5,7 @@ var config = {
   apiKey: "",
   authDomain: "chatapp-5c52d.firebaseapp.com",
   databaseURL: "https://chatapp-5c52d.firebaseio.com",
-  projectId: "chatapp-5c52d",
+  projectId: "projectId",
   storageBucket: "chatapp-5c52d.appspot.com",
   messagingSenderId: "369349972385"
 };
